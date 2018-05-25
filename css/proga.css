@@ -12,16 +12,18 @@
     margin-left: auto; */
 }
 
-.fb {
+.social {
     display: inline-block;
-    margin-right: 3em;
 }
 
-.mail {
-    display: inline-block;
-    margin-right: 3em;
+.social  i {
+	color: #009ee5;
 }
 
-.tel {
-    display: inline-block;
+.hr{
+	font-size:30px
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	height: 1px;
+	margin-bottom: 35px;
 }
